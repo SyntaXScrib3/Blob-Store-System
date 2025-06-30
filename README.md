@@ -148,8 +148,6 @@ npm run dev
 - **`POST /api/directory/move?oldPath=...&newPath=...`**: Move or rename a directory
 - (Etc.)
 
-See the [API documentation](docs/API.md) for detailed request/response formats.
-
 ### React Frontend
 
 1. **Register** or **log in** to obtain a token.
@@ -210,4 +208,4 @@ Before submitting, please:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). Feel free to modify, distribute, and use it in commercial or private software, provided the license terms are respected.
+This project is licensed under the [MIT License](LICENSE). Feel free to modify, distribute, and use it in commercial or private software, provided the license terms are respected.
