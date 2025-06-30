@@ -80,7 +80,7 @@ React Frontend -> UI for folder browsing, file upload, rename, move/copy, previe
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/DatabaseBlobStore.git
+git https://github.com/SyntaXScrib3/Blob-Store-System.git
 cd DatabaseBlobStore
 ```
 
